@@ -1,0 +1,26 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+}
+
+#app {
+	width: 100%;
+	height: 100%;
+	margin: unset;
+	padding: unset;
+	max-width: unset !important;
+}
+
+.view {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.content {
+	flex: 1;
+	display: flex;
+}
