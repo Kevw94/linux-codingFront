@@ -4,7 +4,7 @@
 			<div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
 				<RouterLink to="/home" class="flex items-center">
 					<img
-						src="../../images/CodingToolsFavicon.png"
+						src="/CodingToolsFavicon.png"
 						class="mr-3 h-6 sm:h-9"
 						alt="Flowbite Logo"
 					/>

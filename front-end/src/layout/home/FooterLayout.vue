@@ -3,7 +3,7 @@
 		<div class="sm:flex sm:items-center sm:justify-between">
 			<RouterLink to="/home" class="flex items-center">
 				<img
-					src="../../images/CodingToolsFavicon.png"
+					src="/CodingToolsFavicon.png"
 					class="mr-3 h-6 sm:h-9"
 					alt="Flowbite Logo"
 				/>
